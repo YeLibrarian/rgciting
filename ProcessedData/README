@@ -1,0 +1,11 @@
+CitingArticle_Cleaned.csv: Citing Article Collected Data, WOS Citing Article Citation Data, Deduplicated and Exclusions Removed
+CitingArticleCollectedData.csv: Citing Article Collected Data, updated with new standards to handle edge cases
+CitingArticleCollectedData_Original.csv: Citing Article Collected Data, with ambiguous standards for edge cases
+CitingArticleFinalData.csv: Citing Article Collected Data (updated w/ new standards), WOS Citing Article Citation Data
+Exclusions.csv: List of AID/CID records to exclude and reason for exclusion
+WOS_SciConf_20180531.csv: Script-generated file with columns for question observations and Article citation data
+WOS_SciConf_20180531_CollectedData_Original.xlsx: Question observations for Articles completed by Andrea, highlighted issues
+WOS_SciConf_20180531_CollectedData_YeEdited20181113.xlsx: Question observations for Articles modified by Ye, highlighted issues
+WOS_SciConf_20180531_CollectedData_YeEdited20181113.csv: Question observations for Articles modified by Ye, csv file used for cleaning data
+WOS_SciConf_Cleaned.csv: Question observations for Article, Deduplicated and Exclusions Removed
+WOS_SciSocSci_20180531.csv: Article data from WOS from Social Science database, unused

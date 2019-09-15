@@ -1,0 +1,65 @@
+Case,AID,CID,Description,CitedAs,Locatable,RG Data Status,Action Taken
+Cannot Find,A016,C017,Original Source,Title,No,All NA,None
+Cannot Find,A073,C086,RG Record,Title,No,All NA,Exclude
+Cannot Find,A141,C293,RG Record,Title,No,All NA,Exclude
+Cannot Find,A163,C315,RG Record,Title,No,All NA,Exclude
+Cannot Find,A167,C319,Citing Article,NA,NA,Filled,Exclude
+Cannot Find,A181,C333,RG Record,Title,No,All NA,Exclude
+Cannot Find,A190,C352,RG Post,URL;Title,No,All NA,Exclude
+Cannot Find,A200,C373,RG Record,Title,No,All NA,Exclude
+Cannot Find,A243,C440,RG Record,Title,No,All NA,Exclude
+Cannot Find,A247,C444,RG Record,Title,No,All NA,Exclude
+Cannot Find,A293,C509,RG Record,Title,No,All NA,Exclude
+Cannot Find,A324,C549,RG Record,Original,NA,All NA,Exclude
+Cannot Find,A327,C552,RG Record,Title,No,All NA,Exclude
+Cannot Find,A329,C554,Citing Article Record,NA,NA,All NA,Exclude
+Cannot Find,A328,C553,RG Record,Title,No,All NA,Exclude
+Cannot Find,A330,NA,Citing Article Record/RG Record,DNE,DNE,All NA,Exclude
+Cannot Find,A331,NA,Citing Article Record/RG Record,DNE,DNE,All NA,Exclude
+Cannot Access,A165,C317,Citing Article,NA,NA,All NA,Exclude
+Cannot Access,A122,C556,Citing Article,NA,NA,Filled,Exclude
+Cannot Access,A046,C048,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A046,C049,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A046,C050,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A046,C051,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A046,C052,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A046,C053,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A046,C054,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C107,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C108,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C109,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C110,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C111,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C112,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C113,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C114,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C115,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C116,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C117,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C118,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C119,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C120,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C121,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C122,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C123,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C124,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C125,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C126,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C127,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C128,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C129,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C130,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C131,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A083,C132,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A153,C305,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A222,C397,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A222,C398,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A222,C399,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A222,C400,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A222,C401,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A265,C462,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A265,C463,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A265,C464,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+OriginalExclusions,A265,C465,Citing Article Originals,RGNotInCitation,Yes,Filled,Exclude
+Duplicates,A249/A250/A251,C446/C447/C448,Duplicate RG Record,DOI;Title,Yes,Filled,Dedup
+Duplicates,A216/A217,C390/C391,Duplicate RG Record,DOI;Title,Yes,Filled,Dedup

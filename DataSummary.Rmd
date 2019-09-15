@@ -12,6 +12,9 @@ knitr::read_chunk('Scripts/PrelimStats.R')
 knitr::read_chunk('Scripts/ArticleInput.R')
 source('Scripts/PrelimStats.R')
 source('Scripts/ArticleInput.R')
+if (!require("kableExtra")) install.packages("kableExtra", repos = "http://cran.us.r-project.org")
+#library("plyr")
+library("kableExtra")
 ```
 
 ## Introduction
